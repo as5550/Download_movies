@@ -1,0 +1,58 @@
+h1
+{
+    color: red;
+    text-align: center;
+}
+h2
+{
+    color: green;
+    text-align: center;
+	font-size: 30px;
+}
+h3
+{
+    color: ;
+    text-align: center;
+	font-size: 20px;
+}
+b
+{
+	color: black;
+	background-color: yellow;
+	font-size: 25px;
+}
+c
+{
+	color: blue;
+	background-color: ;
+}
+pre
+{
+	color: ;
+	background-color: ;
+	font-size: 20px;
+}
+/* unvisited link */
+a:link
+{
+	color: green;
+	background-color: cyan;
+}
+/* visited link */
+a:visited
+{
+	color: blue;
+	text-decoration: underline;
+	background-color: hotpink;
+}
+/* mouse over link */
+a:hover {
+    color: hotpink;
+	text-decoration: underline;
+	background-color: lightgreen;
+}
+hr {
+	display: block;
+	border-style: inset;
+	border-width: 2px;
+}
